@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srishti Dwivedi</h1>
 <h3 align="center">A passionate Business Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fpresentation-flat-icon-female-business-analyst-1131028898&psig=AOvVaw2DdyL7xNpbe0cY7n47MvFj&ust=1750528439228000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLix3uXIgI4DFQAAAAAdAAAAABAK" alt="Srishti"/> </p>
+<img align="right" alt="coding" width="400" src="https://depositphotos.com/vector/woman-shows-on-stand-schedule-and-statistics-of-performance-indicators-146497261.html" alt="Srishti"/> </p>
 
 - 🔭 I’m currently working on **HR dashboard using Power BI**
 
