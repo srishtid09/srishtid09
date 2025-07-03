@@ -1,4 +1,4 @@
-![logo](https://github.com/srishtid09/srishtid09/blob/main/laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg)
+![logo](https://github.com/srishtid09/srishtid09/blob/main/laptop.jpg)
 
 <h1 align="center">Hi 👋, I'm Srishti Dwivedi</h1>
 <h3 align="center">A Passionate Business Analyst</h3>
