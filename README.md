@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqyFezFC5YEeE9dh95HrHIYabhlHRldg2LFQ&s">
 
 
-- 🌱 I’m actively learning **upskilling in key data technologies including Excel (MO-200), Power BI, SQL, and Python.**
+- 🌱 Actively **enhancing my analytical thinking and adapting to emerging tools and trends.**
 
 - 👯 I’m looking to collaborate on **real-world business problems & projects that turn raw data into business insights**
 
