@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srishti Dwivedi</h1>
 <h3 align="center">A Passionate Business Analyst</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/43eb9511-b63a-4968-960b-7f70922efd0d)">
 
 - 🔭 I’m currently working on **HR dashboard using Power BI**
 
